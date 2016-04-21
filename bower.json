@@ -1,0 +1,15 @@
+{
+  "name": "thr0w-svg",
+  "version": "0.0.1",
+  "authors": [
+    "John Tucker <john@larkintuckerllc.com>"
+  ],
+  "main": [
+    "dist/thr0w-svg.css",
+    "dist/thr0w-svg.min.js"
+  ],
+  "license": "GPL",
+  "ignore": [],
+  "dependencies": {
+  }
+}
