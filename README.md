@@ -1,4 +1,4 @@
-README v0.0.2 / 21 APRIL 2016
+README v0.0.3 / 21 APRIL 2016
 
 # Thr0w SVG Module
 
@@ -69,7 +69,7 @@ To compile, install the development dependencies using *npm* and compile with
 Where possible, the CSS and JavaScript is not to require any
 additional third-party libraries.
 
-CSS entries are prefixed with *thr0w_leaflet_*.
+CSS entries are prefixed with *thr0w_svg_*.
 
 The CSS is to follow the BEM naming convention.
 
