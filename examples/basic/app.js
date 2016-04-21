@@ -4,6 +4,7 @@
   document.addEventListener('DOMContentLoaded', ready);
   function ready() {
     var frameEl = document.getElementById('my_frame');
+    // CONFIGURED FOR LOCAL DEVELOPMENT; CHANGE HOSTNAME AS REQUIRED
     thr0w.setBase('http://localhost');
     thr0w.addAdminTools(frameEl,
       connectCallback, messageCallback);
