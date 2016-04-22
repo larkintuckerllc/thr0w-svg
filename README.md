@@ -1,4 +1,4 @@
-README v0.0.3 / 21 APRIL 2016
+README v0.0.4 / 22 APRIL 2016
 
 # Thr0w SVG Module
 
