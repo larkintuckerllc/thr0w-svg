@@ -1,15 +1,26 @@
 {
   "name": "thr0w-svg",
-  "version": "0.0.4",
-  "authors": [
-    "John Tucker <john@larkintuckerllc.com>"
-  ],
+  "description": "The Thr0w Project is about building digital signage. This package is used to create interactive Scalable Vector Graphics (SVG).",
+  "version": "0.0.5",
   "main": [
     "dist/thr0w-svg.css",
     "dist/thr0w-svg.min.js"
   ],
   "license": "GPL",
   "ignore": [],
+  "keywords": [
+    "digital",
+    "signage",
+    "svg"
+  ],
+  "authors": [
+    "John Tucker <john@larkintuckerllc.com>"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/larkintuckerllc/thr0w-svg.git"`
+  },
   "dependencies": {
+    "thr0w-client": "^2.0.5"
   }
 }
